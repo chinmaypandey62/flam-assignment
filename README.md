@@ -242,10 +242,6 @@ flam-assignment/
 
 ---
 
-## 📸 Screenshots
-
-*(Add your screenshots here after running the app)*
-
 ### Android App
 - Camera feed with edge detection
 - OpenGL rendering output
@@ -374,6 +370,6 @@ Built with ❤️ demonstrating:
 
 **Status**: 🟢 COMPLETE - Ready for Evaluation
 
-**Repository**: https://github.com/YOUR_USERNAME/flam-assignment
+**Repository**: https://github.com/chinmaypandey62/flam-assignment
 
-**Contact**: [Your Email]
+**Contact**: [chinmaypandey62@gmail.com]
