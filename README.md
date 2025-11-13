@@ -171,7 +171,7 @@ flam-assignment/
 
 1. **Clone repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/flam-assignment.git
+   git clone https://github.com/chinmaypandey62/flam-assignment.git
    cd flam-assignment
    ```
 
