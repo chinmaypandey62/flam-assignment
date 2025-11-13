@@ -325,34 +325,6 @@ This project demonstrates:
 
 ---
 
-## 🤝 Contributing
-
-This is an assessment project. For improvements:
-1. Fork repository
-2. Create feature branch
-3. Commit changes
-4. Submit pull request
-
----
-
-## 📄 License
-
-MIT License - Free for educational and commercial use
-
----
-
-## 👨‍💻 Author
-
-**RnD Intern Assessment Submission**
-
-Built with ❤️ demonstrating:
-- Android + Kotlin
-- C++ + OpenCV + JNI
-- OpenGL ES
-- TypeScript + WebSocket
-
----
-
 ## 🎯 Submission Checklist
 
 - ✅ Android app with camera integration
